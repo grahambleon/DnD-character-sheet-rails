@@ -1,2 +1,3 @@
-# DnD-character-sheet-rails
-basic ROR app for storing and editing DnD character sheets
+# DND Character Sheet
+
+* Just a simple app for keeping track of dnd characters.
