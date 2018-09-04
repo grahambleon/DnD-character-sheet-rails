@@ -45,3 +45,6 @@ group :test do
 end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# Added at 2018-09-04 02:22:51 -0400 by lolimpro:
+gem "bcrypt", "~> 3.1"
